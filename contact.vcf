@@ -1,3 +1,8 @@
-EMAIL:
-URL:https://costasxxxx.github.io/texniko-grafeio-lasithiou/
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Τεχνικό Γραφείο Οροπεδίου Λασιθίου
+ORG:Τεχνικό Γραφείο Οροπεδίου Λασιθίου
+TEL;TYPE=CELL:6946077274
+ADR;TYPE=WORK:;;Τζερμιάδων Οροπέδιο Λασιθίου;;;Ελλάδα
+URL:https://maps.app.goo.gl/TknkdLcWGFpHHxzc8
+END:VCARD
